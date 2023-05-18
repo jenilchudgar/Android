@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shayari App</string>
+    <string name="todo">TODO</string>
+    <string name="hindi_shayari_app">Hindi Shayari App</string>
+    <string name="start">Start</string>
+    <string name="rate">Rate</string>
+    <string name="more">More</string>
+    <string name="share">Share</string>
+    <string name="image">IMAGE</string>
+    <string name="exit">Exit</string>
+</resources>
